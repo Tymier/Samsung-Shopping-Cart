@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Samsung-Shopping-Cart/static/css/main.e68e4be4.chunk.css",
+    "main.js": "/Samsung-Shopping-Cart/static/js/main.b8978ba3.chunk.js",
+    "main.js.map": "/Samsung-Shopping-Cart/static/js/main.b8978ba3.chunk.js.map",
+    "runtime-main.js": "/Samsung-Shopping-Cart/static/js/runtime-main.40b8616c.js",
+    "runtime-main.js.map": "/Samsung-Shopping-Cart/static/js/runtime-main.40b8616c.js.map",
+    "static/js/2.6f103d69.chunk.js": "/Samsung-Shopping-Cart/static/js/2.6f103d69.chunk.js",
+    "static/js/2.6f103d69.chunk.js.map": "/Samsung-Shopping-Cart/static/js/2.6f103d69.chunk.js.map",
+    "static/js/3.44bc794b.chunk.js": "/Samsung-Shopping-Cart/static/js/3.44bc794b.chunk.js",
+    "static/js/3.44bc794b.chunk.js.map": "/Samsung-Shopping-Cart/static/js/3.44bc794b.chunk.js.map",
+    "index.html": "/Samsung-Shopping-Cart/index.html",
+    "static/css/main.e68e4be4.chunk.css.map": "/Samsung-Shopping-Cart/static/css/main.e68e4be4.chunk.css.map",
+    "static/js/2.6f103d69.chunk.js.LICENSE.txt": "/Samsung-Shopping-Cart/static/js/2.6f103d69.chunk.js.LICENSE.txt",
+    "static/media/buds.24f303b0.jpg": "/Samsung-Shopping-Cart/static/media/buds.24f303b0.jpg",
+    "static/media/flip.4a3afd92.jpg": "/Samsung-Shopping-Cart/static/media/flip.4a3afd92.jpg",
+    "static/media/fold.6d002068.jpg": "/Samsung-Shopping-Cart/static/media/fold.6d002068.jpg",
+    "static/media/s21.d36939eb.jpg": "/Samsung-Shopping-Cart/static/media/s21.d36939eb.jpg",
+    "static/media/s21fe.f8af7619.jpg": "/Samsung-Shopping-Cart/static/media/s21fe.f8af7619.jpg",
+    "static/media/s21ultra.16225be1.jpg": "/Samsung-Shopping-Cart/static/media/s21ultra.16225be1.jpg",
+    "static/media/watch.014e3574.jpg": "/Samsung-Shopping-Cart/static/media/watch.014e3574.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40b8616c.js",
+    "static/js/2.6f103d69.chunk.js",
+    "static/css/main.e68e4be4.chunk.css",
+    "static/js/main.b8978ba3.chunk.js"
+  ]
+}
