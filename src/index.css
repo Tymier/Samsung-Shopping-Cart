@@ -1,13 +1,143 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto&display=swap');
+
+* {
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  outline: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1, h2, h3 {
+  margin: 0.5rem 0;
+}
+
+h1 {
+  font-size: 1.5rem;
+  color: white;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-family: 'Noto Sans JP', sans-serif;
+  text-align: center;
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 75%;
+}
+
+img {
+  max-height: 8rem;
+}
+
+.header {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+}
+
+.items {
+  margin-left: 75rem;
+  color: white;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-bottom: 5px;
+}
+
+.badge {
+  border-radius: 100px;
+  border-color: blue;
+  border-width: 1px;
+  box-sizing: border-box;
+  padding: 0.2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-weight: 600;
+  background-color: white;
+  color: blue;
+  text-decoration: none;
+}
+
+.block {
+  background-color: white;
+  width: 25rem;
+  color: black;
+  font-family: 'Noto Sans JP', sans-serif;
+  position: absolute;
+  left: 70%;
+  margin-bottom: 200%;
+}
+
+.products {
+  background: white;
+  color: black;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-left: 5rem;
+  margin-top: 2rem;
+  
+}
+
+.images {
+  max-width: 8rem;
+  width: 500px;
+  height: 500px;
+}
+
+.button {
+  border-radius: 100px;
+  border-color: blue;
+  border-width: 1px;
+  box-sizing: border-box;
+  padding: 0.2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-weight: 600;
+  background-color: white;
+  color: blue;
+  text-decoration: none;
+}
+
+.checkout {
+  border-radius: 100px;
+  border-color: blue;
+  border-width: 1px;
+  box-sizing: border-box;
+  padding: 0.2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-weight: 600;
+  background-color: white;
+  color: blue;
+  text-decoration: none;
+}
+
+.add {
+  border-radius: 50%;
+  border-width: 1px;
+  padding: 0.2rem;
+  background-color: blue;
+  color: white;
+  border-color: white;
+}
+
+.minus {
+  border-radius: 60%;
+  border-width: 1px;
+  padding: 0.2rem;
+  background-color: blue;
+  color: white;
+  border-color: white;
 }
